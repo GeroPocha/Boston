@@ -7,10 +7,10 @@ This project analyzes Airbnb listings in Boston to uncover insights about neighb
 ## Project Structure
 
 ### Used Libraries
-**numpy: 1.26.4**
-**pandas: 2.2.0**
-**matplotlib: 3.5.2**
-**scikit-learn: 1.4.2**
+- **numpy: 1.26.4** 
+- **pandas: 2.2.0**
+- **matplotlib: 3.5.2**
+- **scikit-learn: 1.4.2**
 
 ### Datasets
 - **listings.csv:** Detailed information about each Airbnb listing (e.g., price, review scores, neighborhood).
